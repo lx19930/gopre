@@ -1,0 +1,6 @@
+<h2>Slides</h2>
+<ul>
+    {% for slide in slides %}
+        <li><a href="{{ slide.file.url }}">{{ slide.title }}</a></li>
+    {% endfor %}
+</ul>
