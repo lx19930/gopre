@@ -1,0 +1,1 @@
+This is the test server for gopre project, which is a website allowing users to prepare for their defenses and presentations online.
